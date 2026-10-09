@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: cute-birthday-website
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
